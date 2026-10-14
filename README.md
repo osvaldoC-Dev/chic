@@ -29,3 +29,4 @@ Os botões abrem o WhatsApp com a mensagem de marcação já escrita (serviço, 
 
 No GitHub, vá a Settings → Pages, escolha a branch `main` e a pasta `/ (root)`. O site fica em `https://osvaldoC-Dev.github.io/Bamba1/` e a landing em `.../landing.html`.
 # chic
+# chic
